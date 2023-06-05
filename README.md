@@ -1,0 +1,1 @@
+Neste exercício tentei abordar temas simples como; font, font-size, font-family, background-color a até alguns mais avançados como mix-blend-mode, responsável por remover fundos brancos das imagens.
